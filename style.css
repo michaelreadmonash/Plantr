@@ -99,6 +99,10 @@ footer { background-color: white; font-weight: 600;}
 @media (max-width: 576px) {
   .learn-step-number-container { width: 108.5%; }
   .learn-step-img-container { width: 108.5%; }
+  #timeline { border-radius: 0; }
+  #learn { border-radius: 0; padding-bottom: 5%; }
+  .gallery-img { width: 100%; }
+  .psychological-icon { margin-bottom: 10%; }
 }
 
 /*--- Bootstrap Padding Fix --*/
